@@ -1,0 +1,30 @@
+
+# LangChain framework
+langchain
+langchain-core
+langchain-community
+
+# Local Ollama model
+langchain-ollama
+
+# Tavily web search
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# HTTP and async support
+httpx
+aiohttp
+
+# Structured outputs and retries
+pydantic
+tenacity
+
+# Optional Jupyter support
+ipykernel
